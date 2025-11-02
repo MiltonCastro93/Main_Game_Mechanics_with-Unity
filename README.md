@@ -51,7 +51,7 @@ _(Imágenes de libre licencia utilizadas con fines académicos)_
 
 ### 🧩 Imagen 2
 
-![Captura 2](Images/captura2.png)
+![Captura 2](https://github.com/MiltonCastro93/Main_Game_Mechanics_with-Unity/blob/main/Captura%20de%20pantalla%202025-11-02%20131910.png)
 
 **Explicación:**  
 > _(Agregá una breve descripción de la mecánica o escena que representa esta captura)._
@@ -60,11 +60,17 @@ _(Imágenes de libre licencia utilizadas con fines académicos)_
 
 ### 🧩 Imagen 3
 
-![Captura 3](Images/captura3.png)
+![Captura 3](https://github.com/MiltonCastro93/Main_Game_Mechanics_with-Unity/blob/main/Captura%20de%20pantalla%202025-11-02%20132001.png)
 
 **Explicación:**  
 > _(Podés comentar sobre el tipo de interacción, prueba de cámara o control de jugador)._
 
+### 🧩 Imagen 4
+
+![Captura 4](https://github.com/MiltonCastro93/Main_Game_Mechanics_with-Unity/blob/main/Captura%20de%20pantalla%202025-11-02%20132104.png)
+
+**Explicación:**  
+> _(Podés comentar sobre el tipo de interacción, prueba de cámara o control de jugador)._
 ---
 
 ## 🧰 Tecnologías utilizadas
