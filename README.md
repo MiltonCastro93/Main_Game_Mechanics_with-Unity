@@ -45,7 +45,7 @@ _(Imágenes de libre licencia utilizadas con fines académicos)_
 ![Captura 1](https://github.com/MiltonCastro93/Main_Game_Mechanics_with-Unity/blob/main/Captura%20de%20pantalla%202025-11-02%20131829.png)
 
 **Explicación:**  
-> _(Aquí podés detallar qué se muestra en la captura, por ejemplo: la posición de la cámara fija, el comportamiento del personaje o la lógica detrás de la escena)._
+> _(Me inspire del RE3 Classic, Puse varias camaras que se active/desactiven cuando el player entrar en el evento)._
 
 ---
 
@@ -54,7 +54,7 @@ _(Imágenes de libre licencia utilizadas con fines académicos)_
 ![Captura 2](https://github.com/MiltonCastro93/Main_Game_Mechanics_with-Unity/blob/main/Captura%20de%20pantalla%202025-11-02%20131910.png)
 
 **Explicación:**  
-> _(Agregá una breve descripción de la mecánica o escena que representa esta captura)._
+> _(Aplique controles de camara y del personaje sin depender del Cinemachine. con limite de angulo dinamico por codigo° en el eje)._
 
 ---
 
@@ -63,14 +63,14 @@ _(Imágenes de libre licencia utilizadas con fines académicos)_
 ![Captura 3](https://github.com/MiltonCastro93/Main_Game_Mechanics_with-Unity/blob/main/Captura%20de%20pantalla%202025-11-02%20132001.png)
 
 **Explicación:**  
-> _(Podés comentar sobre el tipo de interacción, prueba de cámara o control de jugador)._
+> _(Hacer caminar al personaje usando el navmeshagent, usando el metodo .Move para limitar por donde camina el personaje y simulando las mecanicas de juegos clasicos rpg)._
 
 ### 🧩 Imagen 4
 
 ![Captura 4](https://github.com/MiltonCastro93/Main_Game_Mechanics_with-Unity/blob/main/Captura%20de%20pantalla%202025-11-02%20132104.png)
 
 **Explicación:**  
-> _(Podés comentar sobre el tipo de interacción, prueba de cámara o control de jugador)._
+> _(Aplique comportamientos de un vehiculo, suspencion, innercia y etc)._
 ---
 
 ## 🧰 Tecnologías utilizadas
