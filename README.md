@@ -101,7 +101,7 @@ Las imágenes utilizadas son **de libre licencia**.
 ## 📬 Contacto
 
 Si querés compartir feedback o discutir sobre desarrollo en Unity:  
-📧 **[Tu correo o portfolio opcional]**
+📧 **[miltondeniscastro.1993@gmail.com]**
 
 ---
 
