@@ -63,7 +63,7 @@ _(Imágenes de libre licencia utilizadas con fines académicos)_
 ![Captura 3](https://github.com/MiltonCastro93/Main_Game_Mechanics_with-Unity/blob/main/Captura%20de%20pantalla%202025-11-02%20132001.png)
 
 **Explicación:**  
-> _(Hacer caminar al personaje usando el navmeshagent, usando el metodo .Move para limitar por donde camina el personaje y simulando las mecanicas de juegos clasicos rpg)._
+> _(Hacer caminar al personaje usando el navmeshagent, usando el metodo .Move para limitar por donde camina el personaje y simulando las mecanicas de juegos clasicos rpg, perfecto para superficies irregulares)._
 
 ### 🧩 Imagen 4
 
